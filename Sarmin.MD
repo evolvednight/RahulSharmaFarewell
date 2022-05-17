@@ -66,7 +66,7 @@ footer: "Sarmin Rocks :heart:"
 
 ### Md Tamim Mandal:
 #### A Good Colleague and Friend! 
-##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and apprecite your quality of work,hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature.All the very best for your new role Sarmin... :)   
+##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and appreciate your quality of work,hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature.All the very best for your new role Sarmin... :)   
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 
@@ -106,7 +106,7 @@ footer: "Sarmin Rocks :heart:"
 ---
 ![bg 80% opacity blur](https://www.stevenswonderblogs.com/wp-content/uploads/2018/12/discipline-300x300.jpg)
 
-### Param Says:
+### Param N Says:
 ####  Sarmin = (GRS) Gateway Respects Sarmin !
 ##### It was really nice working with you Sarmin ! You are a very good Leader, Colleague, Friend, Mentor and Awesome Person. You are one of the examples for one can work on multiple things and can know everything better.
 
