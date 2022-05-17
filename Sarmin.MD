@@ -73,7 +73,7 @@ footer: "Sarmin Rocks :heart:"
 ---
 ![bg 80% opacity ](https://www.wikihow.com/images/thumb/9/96/Be-Knowledgeable-Step-1-Version-3.jpg/aid161148-v4-728px-Be-Knowledgeable-Step-1-Version-3.jpg.webp)
 
-### :
+### < > Says :
 ####  
 ##### 
 <!-- _class: lead -->
